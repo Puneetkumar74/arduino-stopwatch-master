@@ -16,7 +16,7 @@
  * - 16x2 I2C LCD (0x27 address)
  * - Voltage input on A0 pin
  * 
- * Author: [Your Name]
+ * Author: Puneet
  * Version: 1.0
  * Date: June 2025
  */
